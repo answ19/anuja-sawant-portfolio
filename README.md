@@ -35,4 +35,4 @@
 
 ---
 
-⭐ *Thanks for visiting! Stay tuned for upcoming projects in web development, algorithms, and cloud engineering.* ☁️
+⭐ *Thanks for visiting! Stay tuned for upcoming projects in AI, software development and testing, algorithms, and cloud engineering.* ☁️
