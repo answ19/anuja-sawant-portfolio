@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Current Focus
-- Building small full-stack projects to strengthen my portfolio  
+- Building small AI and full-stack projects to strengthen my portfolio  
 - Exploring **cloud infrastructure and automation tools**  
 - Preparing to share academic and personal projects here soon!  
 
